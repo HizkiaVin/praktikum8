@@ -1,3 +1,4 @@
+```python
 class mahasiswa:
     def _init_(self, nim, nama, tugas, uts, uas):
         self.nim = nim
@@ -96,3 +97,5 @@ while True:
 
     else:
         print("\nPerintah yang dimasukkan salah!\n")
+
+```        
